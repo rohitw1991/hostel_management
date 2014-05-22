@@ -1,0 +1,47 @@
+{
+ "autoname": "field:food_name", 
+ "creation": "2014-05-22 16:50:25.408369", 
+ "docstatus": 0, 
+ "doctype": "DocType", 
+ "document_type": "Master", 
+ "fields": [
+  {
+   "fieldname": "food_details", 
+   "fieldtype": "Section Break", 
+   "label": "Food Details", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "food_name", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Food Name", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "price", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Price", 
+   "permlevel": 0
+  }
+ ], 
+ "modified": "2014-05-22 17:23:10.040230", 
+ "modified_by": "Administrator", 
+ "module": "Hostel Management", 
+ "name": "Food Details", 
+ "name_case": "", 
+ "owner": "Administrator", 
+ "permissions": [
+  {
+   "create": 1, 
+   "delete": 1, 
+   "permlevel": 0, 
+   "read": 1, 
+   "role": "Chef", 
+   "write": 1
+  }
+ ], 
+ "sort_field": "modified", 
+ "sort_order": "DESC"
+}
