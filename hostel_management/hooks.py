@@ -7,7 +7,7 @@ app_color = "#589494"
 app_email = "rohit.w@indictranstech.com"
 app_url = "https://google.com"
 app_version = "0.0.1"
-hide_in_installer=True
+#hide_in_installer=True
 
 # Includes in <head>
 # ------------------
